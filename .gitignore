@@ -1,0 +1,12 @@
+Library/
+.vscode/settings.json
+*.meta
+Packages/manifest.json
+ProjectSettings/
+Robots_Win_Data/
+Web Player Build/
+
+RobotsAssets.unitypackage
+Robots.sln
+Robots.CSharp.csproj
+Assembly-CSharp.csproj
