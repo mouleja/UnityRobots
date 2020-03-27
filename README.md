@@ -3,6 +3,8 @@ C# Unity Robots Game
 
 ### Based on Daleks game circa 1984
 
+<img src="Robots.png">
+
 ### How to play
 
 Click [this link to play on the web](https://sharemygame.com/@Majule/robots)
